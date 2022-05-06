@@ -10,10 +10,10 @@
     <body>
         <div class="nav">
             <ul>
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="comptetences.html">Compétences</a></li>
-                <li><a href="veille-info.html">Veille informatique</a></li>
-                <!-- <li><a href="#">Se connecter</a></li> -->
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">Compétences</a></li>
+                <li><a href="#">Veille informationnelle</a></li>
+                <li><a href="#">Se connecter</a></li>
             </ul>
         </div>
         <div class="container-title">
