@@ -6,27 +6,27 @@
         <meta name="description" content="Portfolio de Mael Cadiou">
         <meta name="author" content="Mael Cadiou">
 
-        <title><?= isset($title) ? $title : 'Portfolio de Mael Cadiou'; ?></title>
+        <title><?= isset($title) ? $title : 'Mael Cadiou | Accueil'; ?></title>
 
-        <link rel="icon" type="image/x-icon" href="<?= WEBROOT; ?>icon.png" />
+        <link rel="icon" type="image/x-icon" href="icon.png" />
 
-        <link href="<?= WEBROOT ?>css/style.css" rel="stylesheet"> 
+        <link href="css/style.css" rel="stylesheet"> 
 
     </head>
 
     <body>
-        <div class="nav">
-                   
+        <div class="nav">   
                 <ul>
-                    <li><a href="index.php" class="btn--icon"><img src="<?= WEBROOT; ?>icon.png" width="50"></a></li>
-                    <li><a href="<?= WEBROOT; ?>index.php">Accueil</a></li>
-                    <li><a href="#" class="btn">Compétences</a></li>
-                    <li><a href="#" class="btn">Veille informatique</a></li>
-                    <li><a href="<?= WEBROOT; ?>login.php">Se connecter</a></li>
-                    
+                    <li class="nav-icon"><a href="index.php"><img src="MC.png" width="60"></a></li>
+                    <div class="nav-right">
+                            <li class="nav-li nav-li-deco hover"><a href="index.php">Accueil</a></li>
+                            <li class="nav-li nav-li-deco hover"><a href="competences.php">Compétences</a></li>
+                            <li class="nav-li nav-li-deco hover"><a href="veille-info.php">Veille informationnelle</a></li>
+                            <li class="nav-li nav-li-deco hover"><a href="bts.php">BTS SIO</a></li>
+                            <li class="nav-li nav-li-deco hover"><a href="stage.php">Stage</a></li>
+                        
+                    </div>
+
                 </ul>
             </div>
-        
-       
-       
-            <?= flash(); ?>
+            
