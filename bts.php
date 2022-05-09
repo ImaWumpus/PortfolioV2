@@ -5,7 +5,7 @@ include 'header.php';
 <div class="container-title">
     <h1>BTS SIO</h1>
     <br>
-    <span class="bolder">Le BTS Services informatique aux Organisations est un diplôme reconnu par l’état de niveau Bac+2. Il remplace depuis septembre 2011 l’ancien BTS informatique de Gestion (BTS IG). En effet, cette nouvelle formule répond aux attentes de la profession en matière de qualification. Le programme a évolué en fonction de la place et du rôle des TIC (Technologies d’Information Communication) et propose deux spécialités bien distinctes : le BTS SIO SISR et le BTS SIO SLAM.<br>
+    <span>Le BTS Services informatique aux Organisations est un diplôme reconnu par l’état de niveau Bac+2. Il remplace depuis septembre 2011 l’ancien BTS informatique de Gestion (BTS IG). En effet, cette nouvelle formule répond aux attentes de la profession en matière de qualification. Le programme a évolué en fonction de la place et du rôle des TIC (Technologies d’Information Communication) et propose deux spécialités bien distinctes : le BTS SIO SISR et le BTS SIO SLAM.<br>
     <br>
     Il associe aux enseignements théoriques et professionnels (en contrôle continu et final) deux stages en entreprise (10 à 11 semaines réparties sur les deux années d’études). <br>
     <br>
@@ -16,7 +16,7 @@ include 'header.php';
     <br> 
     <h2>Le BTS SIO option SISR</h2>
     <br>
-    <span class="bolder">
+    <span>
     L’option Solutions d’infrastructure, systèmes et réseaux forme des professionnels des réseaux et équipements informatiques (installation, maintenance, sécurité). En sortant d’un BTS SIO SISR, vous serez capables de gérer et d’administrer le réseau d’une société et d’assurer sa sécurité et sa maintenance.
 
     Les techniciens supérieurs en informatique option SISR, peuvent accéder aux métiers de :
@@ -31,7 +31,7 @@ include 'header.php';
     <br>
     Le BTS SIO option SLAM</h2>
     <br>
-    <span class="bolder">
+    <span>
     L’option Solutions logicielles et applications métiers forme des spécialistes des logiciels (rédaction d’un cahier des charges, formulation des besoins et spécifications, développement, intégration au sein de la société).
 
     Les techniciens supérieurs en informatique option slam, sont préparés aux métiers de

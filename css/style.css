@@ -155,3 +155,7 @@ li {
 .bolder{
     font-weight: bolder;
 }
+.article a{
+    color: #222;
+    
+}
