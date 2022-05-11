@@ -14,9 +14,13 @@ include 'header.php';
     <br>
     <span class="tb">
     Compétences mobilisées :<br>
-    1.1.2 : <a href="#">Element de preuve</a><br>
-    1.2.3 1.4.2 1.5.1 1.6.1
-    <br></span>
+    1.1.2 <br>
+    1.2.3 <br>
+    1.4.2 <br>
+    1.5.1 <br>
+    1.6.1 <br>
+    <a href="file/Déploiement-appli.docx">Element de preuve</a><br>
+    </span>
     <br>
     <h3>Gerer son identitée personnelle (portfolio) :</h3>
     <br>

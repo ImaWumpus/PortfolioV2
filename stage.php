@@ -21,7 +21,7 @@ include 'header.php';
     </span>
     <br>
     <br>
-    <span>
+    <span class="tb">
         Pour plus de détails sur les travaux effectués allez voir <a href="competences.php">ici</a>
     </span>
 </div>
